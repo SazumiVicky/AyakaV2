@@ -14,8 +14,8 @@
 
 <h4>Where can I buy Ayaka's script officially?</h4>
 
-- [Whatsapp](wa.me/+6285236226786)
-- [Telegram](t.me/sazumiviki)
+- [Whatsapp](https://wa.me/+6285236226786)
+- [Telegram](https://t.me/sazumiviki)
 
 ##
 
@@ -40,6 +40,12 @@
 <h4>Where can I try the demo version</h4>
 
 - [Telegram](wa.me/+62878413242583)
+
+##
+
+<h4>The script version is now</h4>
+
+<p>1.0.1</p>
 
 ##
 
