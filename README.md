@@ -2,17 +2,17 @@
 
 # Warning
 
-<p>The Ayaka script is not published for free, the Ayaka script is sold through the original owner.</p>
+<p>The Ayaka script is not available for free, as it is sold exclusively through its original owner.</p>
 
 ##
 
-<h4>How much does Ayaka's script cost ?</h4>
+<h4>How much does Ayaka script cost?</h4>
 
 - IDR 50k
 
 ##
 
-<h4>Where can I buy Ayaka's script officially?</h4>
+<h4>Where can I buy Ayaka script officially?</h4>
 
 - [Whatsapp](https://wa.me/+6285236226786)
 - [Telegram](https://t.me/sazumiviki)
@@ -21,19 +21,19 @@
 
 <h4>Will I get free updates?</h4>
 
-<p>I can't guarantee you 100% will get a free update, because over time, the bot will be improved to a perfect version and features will be added, and it's not completely free to get a free update, it will take an additional fee to get another update.</p>
+<p>I cannot guarantee that you will receive free updates 100% of the time because the bot will continually be improved with new features and updates, which may come at an additional cost.</p>
 
 ##
 
 <h4>Is there a refund when the script has been purchased?</h4>
 
-<p>Nothing, you've got the script and there's no way you can delete it, even if you swear</p>
+<p>Once you have the script, there is no way to delete it, even if you swear.</p>
 
 ##
 
 <h4>How do I get regular updates?</h4>
 
-<p>You will join the group to get regular updates, and keep in mind that you will not always get free updates, you will have to pay additional fees.</p>
+<p>To receive regular updates, you will need to join the group. Please note, however, that not all updates will be free and additional fees may be required.</p>
 
 ##
 
