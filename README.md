@@ -51,6 +51,21 @@
 
 <h4>Latest changelog update</h4>
 
+- Mon Jun 05 2023
+- New Feature / Diffusions
+
+- Mon Jun 05 2023
+- New Feature / Simi
+
+- Mon Jun 05 2023
+- Cerpexsex is experiencing an error / Repair Queue
+
+- Sun Jun 04 2023
+- Ytmp3 / Immediate Repair
+
+- Sun Jun 04 2023
+- Added ceritahoror Feature
+
 - Sun Jun 04 2023
 - New Rpg Feature / Misi
 
