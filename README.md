@@ -51,6 +51,21 @@
 
 <h4>Latest changelog update</h4>
 
+- Tue Jun 06 2023
+- New Feature / Didyoumean
+
+- Tue Jun 06 2023
+- Update Library / Uploadimage
+
+- Tue Jun 06 2023
+- Console Log Update / Troubleshooting Errors
+
+- Tue Jun 06 2023
+- Antiviewonce Update
+
+- Tue Jun 06 2023
+- Autosticker Update
+
 - Mon Jun 05 2023
 - New Feature / Diffusions
 
