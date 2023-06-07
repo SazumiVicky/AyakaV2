@@ -72,6 +72,9 @@
 <h4>Latest changelog update</h4>
 
 - Wed Jun 07 2023
+- New Feature / Unbanwa & Bannedwa
+
+- Wed Jun 07 2023
 - Buypanel Feature
 
 - Wed Jun 07 2023
