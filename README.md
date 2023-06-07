@@ -51,6 +51,15 @@
 
 <h4>Latest changelog update</h4>
 
+- Wed Jun 07 2023
+- Buypanel Feature
+
+- Wed Jun 07 2023
+- Fix handler.js & simple.js
+
+- Wed Jun 07 2023
+- New Feature Set / SourceUrl
+
 - Tue Jun 06 2023
 - New Feature / Didyoumean
 
