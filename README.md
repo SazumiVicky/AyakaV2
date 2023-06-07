@@ -49,6 +49,26 @@
 
 ##
 
+<h4>Minimum specifications required</h4>
+
+- Node Version: 14.21.3
+- Npm Version: 9.6.6
+- Cpu: 200%
+- Memomry: 2GB
+- Disk: 5GB
+
+##
+
+<h4>Recommendations specifications required</h4>
+
+- Node Version: 14.21.3
+- Npm Version: 9.6.6
+- Cpu: 400%
+- Memomry: 8GB
+- Disk: 10GB
+
+##
+
 <h4>Latest changelog update</h4>
 
 - Wed Jun 07 2023
