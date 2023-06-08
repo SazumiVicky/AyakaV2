@@ -53,8 +53,8 @@
 
 - Node Version: 14.21.3
 - Npm Version: 9.6.6
-- Cpu: 200%
-- Memory: 2GB
+- Cpu: 300%
+- Memory: 3GB
 - Disk: 5GB
 
 ##
