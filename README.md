@@ -72,6 +72,9 @@
 <h4>Latest changelog update</h4>
 
 - Thu Jun 08 2023
+- New Feature Detect
+
+- Thu Jun 08 2023
 - Fix TikTok Downloader
 
 - Wed Jun 07 2023
