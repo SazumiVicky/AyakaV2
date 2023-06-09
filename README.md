@@ -84,6 +84,9 @@
 <h4>Latest changelog update</h4>
 
 - Thu Jun 08 2023
+- New Feature Translate
+
+- Thu Jun 08 2023
 - Updated Antilink
 
 - Thu Jun 08 2023
