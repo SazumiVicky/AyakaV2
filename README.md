@@ -288,7 +288,7 @@
 - Play, Limit Acces
 
 - Mon May 15 2023
-- Fix Mediafire Download
+- Fix Mediafire Downloader
 
 - Mon May 15 2023
 - Add Changelog
