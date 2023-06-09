@@ -102,6 +102,11 @@
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Bio.jpg" />
 </details>
 
+<details>
+<summary> <b>Console Log</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/console.png" />
+</details>
+
 
 ##
 
