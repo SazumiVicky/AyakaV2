@@ -69,6 +69,42 @@
 
 
 ##
+
+<h4>Preview</h4>
+
+<details>
+<summary> <b>Profile</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Profile.jpg" />
+</details>
+
+<details>
+<summary> <b>Menu</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Menu.jpg" />
+</details>
+
+<details>
+<summary> <b>All Menu</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Allmenu.jpg" />
+</details>
+
+<details>
+<summary> <b>Info Server</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Server.jpg" />
+</details>
+
+<details>
+<summary> <b>Buy Premium</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Buyprem.jpg" />
+</details>
+
+<details>
+<summary> <b>Bio</b></summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Bio.jpg" />
+</details>
+
+
+##
+
 <h4>To run the bot on version 1.0.2, I suggest using a third-party WhatsApp application, such as Aero WhatsApp.</h4>
 
 > For the <code>com.wa package</code> version, you must uninstall your official WhatsApp and install this version of Aero WhatsApp.
