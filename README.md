@@ -73,37 +73,37 @@
 <h4>Preview</h4>
 
 <details>
-<summary> <b>Profile</b></summary><br/>
+<summary>Profile</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Profile.jpg" />
 </details>
 
 <details>
-<summary> <b>Menu</b></summary><br/>
+<summary>Menu</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Menu.jpg" />
 </details>
 
 <details>
-<summary> <b>All Menu</b></summary><br/>
+<summary>All Menu</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Allmenu.jpg" />
 </details>
 
 <details>
-<summary> <b>Info Server</b></summary><br/>
+<summary>Info Server</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Server.jpg" />
 </details>
 
 <details>
-<summary> <b>Buy Premium</b></summary><br/>
+<summary>Buy Premium</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Buyprem.jpg" />
 </details>
 
 <details>
-<summary> <b>Bio</b></summary><br/>
+<summary>Bio</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Bio.jpg" />
 </details>
 
 <details>
-<summary> <b>Console Log</b></summary><br/>
+<summary>Console Log</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/console.png" />
 </details>
 
