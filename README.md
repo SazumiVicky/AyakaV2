@@ -126,6 +126,9 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Donasi Feature Fixed| Sat Jun 10 2023 |
+| Fix Erorr Igstory | Sat Jun 10 2023 |
+| Fixing Scan Failure | Sat Jun 10 2023 |
 | New Feature Translate | Thu Jun 08 2023 |
 | Updated Antilink | Thu Jun 08 2023 |
 | Updated Rpg Features | Thu Jun 08 2023 |
