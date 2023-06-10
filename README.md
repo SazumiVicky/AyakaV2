@@ -126,6 +126,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Making an auto-response for wait time| Sat Jun 10 2023 |
 | Donasi Feature Fixed| Sat Jun 10 2023 |
 | Fix Erorr Igstory | Sat Jun 10 2023 |
 | Fixing Scan Failure | Sat Jun 10 2023 |
