@@ -51,7 +51,7 @@
 
 <h4>Minimum specifications required</h4>
 
-- Node Version: 14.21.3
+- Node Version: 16.20.0
 - Npm Version: 9.6.6
 - Cpu: 300%
 - Memory: 3GB
@@ -61,7 +61,7 @@
 
 <h4>Recommendations specifications required</h4>
 
-- Node Version: 14.21.3
+- Node Version: 16.20.0
 - Npm Version: 9.6.6
 - Cpu: 400%
 - Memory: 8GB
