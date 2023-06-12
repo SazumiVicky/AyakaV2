@@ -45,7 +45,7 @@
 
 <h4>The script version is now</h4>
 
-<p>1.0.2</p>
+<p>1.0.3</p>
 
 ##
 
@@ -126,6 +126,10 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to Rpg Inventory| Mon Jun 12 2023 |
+| Improvements to Whatanime| Mon Jun 12 2023 |
+| Improvements to Email verification| Mon Jun 12 2023 |
+| Improvements to some functions| Mon Jun 12 2023 |
 | Making an auto-response for wait time| Sat Jun 10 2023 |
 | Donasi Feature Fixed| Sat Jun 10 2023 |
 | Fix Erorr Igstory | Sat Jun 10 2023 |
