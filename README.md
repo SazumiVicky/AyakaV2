@@ -44,10 +44,10 @@
 ##
 
 <h4>Rules that must be followed when purchasing AyakaV2 script</h4>
-1. Script cannot be bought and sold.
-2. It is not allowed to provide any part of the script's code, including plugin code.
-3. It is prohibited to give the API key to another person who is not a user of the Ayaka script.
-4. When you want to use another WhatsApp account to use the bot, please contact the developer.
+- Script cannot be bought and sold.
+- It is not allowed to provide any part of the script's code, including plugin code.
+- It is prohibited to give the API key to another person who is not a user of the Ayaka script.
+- When you want to use another WhatsApp account to use the bot, please contact the developer.
 
 ##
 
