@@ -107,6 +107,11 @@
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Console.png" />
 </details>
 
+<details>
+<summary>Email Verify</summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Email_Verify.jpg" />
+</details>
+
 
 ##
 
