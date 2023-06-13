@@ -162,6 +162,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to Broadcast| Tue Jun 13 2023 |
 | Improvements in some features| Tue Jun 13 2023 |
 | Bug Fix and Error Correction| Tue Jun 13 2023 |
 | Improvements to Rpg Inventory| Mon Jun 12 2023 |
