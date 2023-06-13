@@ -146,7 +146,7 @@
 
 ##
 
-<h4>To run the bot on version 1.0.2, I suggest using a third-party WhatsApp application, such as Aero WhatsApp.</h4>
+<h4>To run the bot on version 1.0.2 +, I suggest using a third-party WhatsApp application, such as Aero WhatsApp.</h4>
 
 > For the <code>com.wa package</code> version, you must uninstall your official WhatsApp and install this version of Aero WhatsApp.
 
