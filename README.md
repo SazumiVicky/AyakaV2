@@ -162,6 +162,8 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to the sender email feature| Wed Jun 14 2023 |
+| Fixed an error in the verification email| Wed Jun 14 2023 |
 | Improvements to Broadcast| Tue Jun 13 2023 |
 | Improvements in some features| Tue Jun 13 2023 |
 | Bug Fix and Error Correction| Tue Jun 13 2023 |
