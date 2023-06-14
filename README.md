@@ -162,6 +162,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to RemoveBg| Wed Jun 14 2023 |
 | Improvements to the sender email feature| Wed Jun 14 2023 |
 | Fixed an error in the verification email| Wed Jun 14 2023 |
 | Improvements to Broadcast| Tue Jun 13 2023 |
