@@ -162,6 +162,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to the games and owner features| Thu Jun 15 2023 |
 | Improvements to RemoveBg| Wed Jun 14 2023 |
 | Improvements to the sender email feature| Wed Jun 14 2023 |
 | Fixed an error in the verification email| Wed Jun 14 2023 |
