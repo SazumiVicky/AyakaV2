@@ -162,6 +162,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Fix cleartmp, mediafire, gdrive| Sat Jun 17 2023 |
 | Fix Erorr OpenAi| Sat Jun 17 2023 |
 | Jadianime Upgrade Features| Sat Jun 17 2023 |
 | New Features of Temp Mail and Temp Message| Sat Jun 17 2023 |
