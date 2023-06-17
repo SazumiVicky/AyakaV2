@@ -55,22 +55,22 @@
 <h4>Frequently Asked Questions (FAQ).</h4>
 
 1. Do I need programming knowledge to use the script?
-- Yes, it is recommended that you have programming knowledge such as JavaScript.
+> Yes, it is recommended that you have programming knowledge such as JavaScript.
 
 2. Can I request a feature?
-- Of course, you can request a feature.
+> Of course, you can request a feature.
 
 3. Can I request a feature?
-- Of course, you can request a feature.
+> Of course, you can request a feature.
 
 4. Can I modify the credits in the code?
-- I suggest that you do not delete / edit the credit comment in the code, as it is a form of appreciation for the developer.
+> I suggest that you do not delete / edit the credit comment in the code, as it is a form of appreciation for the developer.
 
 5. Can I request the script for free?
-- I will not provide the script for free.
+> I will not provide the script for free.
 
 6. Can I negotiate the price?
-- No, the price set is final and cannot be negotiated.
+> No, the price set is final and cannot be negotiated.
 
 ##
 
