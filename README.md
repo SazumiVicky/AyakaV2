@@ -162,6 +162,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| New Feature Stalk Wa| Mon Jun 19 2023 |
 | Fix Screnshoot Web| Sun Jun 18 2023 |
 | Fix cleartmp, mediafire, gdrive| Sat Jun 17 2023 |
 | Fix Erorr OpenAi| Sat Jun 17 2023 |
