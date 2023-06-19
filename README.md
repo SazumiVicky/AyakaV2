@@ -9,9 +9,9 @@
 <h4>How much does Ayaka script cost?</h4>
 
 - IDR 50k
-  > / Free update until version 1.0.5 / Limited
+  > Free update until version 1.0.5 / Limited
 - IDR 100k
-  > / Free updates up to the next 5 versions / Forever
+  > Free updates up to the next 5 versions / Forever
 
 ##
 
