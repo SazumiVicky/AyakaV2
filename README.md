@@ -121,7 +121,7 @@
 
 <details>
 <summary>Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Menu.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/menu-1.0.3.jpg" />
 </details>
 
 <details>
@@ -131,7 +131,7 @@
 
 <details>
 <summary>Info Server</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Server.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/server-1.0.3.jpg" />
 </details>
 
 <details>
@@ -152,6 +152,11 @@
 <details>
 <summary>Email Verify</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Email_Verify.jpg" />
+</details>
+
+<details>
+<summary>Youtube Play</summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/play-1.0.3.jpg" />
 </details>
 
 
