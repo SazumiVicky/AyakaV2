@@ -126,7 +126,7 @@
 
 <details>
 <summary>All Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Allmenu.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/allmenu-1.0.3.jpg" />
 </details>
 
 <details>
@@ -141,7 +141,7 @@
 
 <details>
 <summary>Bio</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Bio.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/bio-1.0.3.jpg" />
 </details>
 
 <details>
