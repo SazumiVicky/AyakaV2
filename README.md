@@ -12,6 +12,8 @@
   > Free update until version 1.0.5 / <b>Limited</b>
 - IDR 100k
   > Free updates up to the next 5 versions / <b>Forever</b>
+- IDR 300K
+  > <b>Free lifetime updates</b> without any additional cost
 
 ##
 
