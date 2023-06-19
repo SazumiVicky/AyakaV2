@@ -17,6 +17,13 @@
 
 ##
 
+- Benefits
+  
+> Free apikey forever
+> Can fix the feature if there is an error
+
+##
+
 <h4>Where can I buy Ayaka script officially?</h4>
 
 - [Whatsapp](https://wa.me/+6285236226786)
