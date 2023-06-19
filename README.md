@@ -17,9 +17,9 @@
 
 ##
 
-- Benefits
-> Free apikey forever
-> Can fix the feature if there is an error
+1. Benefits
+- Free apikey forever
+- Can fix the feature if there is an error
 
 ##
 
