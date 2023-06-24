@@ -11,7 +11,7 @@
 - IDR 50k
   > Free update for the first time / <b>Forever</b>
 - IDR 100k
-  > Free updates up to the next 3 versions / <b>Forever</b>
+  > Free update up to the next 3 versions / <b>Forever</b>
 
 ##
 
