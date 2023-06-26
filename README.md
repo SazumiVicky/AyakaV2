@@ -85,9 +85,9 @@
 
 <h4>What are we encrypting?</h4>
 
-- index.js
-- viki-regmail.js
-- print.js
+- <code>index.js</code>
+- <code>viki-regmail.js</code>
+- <code>print.js</code>
 
 ##
 
