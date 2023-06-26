@@ -83,6 +83,20 @@
 
 ##
 
+<h4>What are we encrypting?</h4>
+
+- index.js
+- viki-regmail.js
+- print.js
+
+##
+
+<h4>Why are we encrypting it?</h4>
+
+- To prevent script users from reselling the script to others without the developer's knowledge
+
+##
+
 <h4>The script version is now</h4>
 
 <p>1.0.3</p>
