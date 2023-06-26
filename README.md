@@ -190,6 +190,8 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Fix Erorr Spotify / Spotifydl| Mon Jun 26 2023 |
+| Smeme / Wm has been fixed.| Mon Jun 26 2023 |
 | Fix Erorr uploadimage & tourl| Tue Jun 20 2023 |
 | New Feature Stalk Wa| Mon Jun 19 2023 |
 | Fix Screnshoot Web| Sun Jun 18 2023 |
