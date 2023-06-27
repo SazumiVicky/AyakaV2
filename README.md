@@ -190,6 +190,9 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| New Feature Menfess| Tue Jun 27 2023 |
+| Fix Spotify Downloader| Tue Jun 27 2023 |
+| New Feature Antiporn| Tue Jun 27 2023 |
 | Fix Erorr Spotify / Spotifydl| Mon Jun 26 2023 |
 | Smeme / Wm has been fixed.| Mon Jun 26 2023 |
 | Fix Erorr uploadimage & tourl| Tue Jun 20 2023 |
