@@ -99,7 +99,7 @@
 
 <h4>The script version is now</h4>
 
-<p>1.0.3</p>
+<p>1.0.4</p>
 
 ##
 
