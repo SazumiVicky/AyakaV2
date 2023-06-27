@@ -190,6 +190,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Been using gpt-4 version| Tue Jun 27 2023 |
 | New Feature Menfess| Tue Jun 27 2023 |
 | Fix Spotify Downloader| Tue Jun 27 2023 |
 | New Feature Antiporn| Tue Jun 27 2023 |
