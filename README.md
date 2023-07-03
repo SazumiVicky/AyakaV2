@@ -17,8 +17,8 @@
 
 <h4>Bot Code Type</h4>
 
-- Plugins
-
+- <b>Plugins</b>
+- ~Case~
 ##
 
 1. Benefits
