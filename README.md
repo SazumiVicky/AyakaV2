@@ -127,18 +127,23 @@
 <h4>Preview</h4>
 
 <details>
+<summary>First Chat</summary><br/>
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Firstchat.jpg" />
+</details>
+
+<details>
 <summary>Profile</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Profile.jpg" />
 </details>
 
 <details>
 <summary>Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/menu-1.0.3.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Menu.jpg" />
 </details>
 
 <details>
 <summary>All Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/allmenu-1.0.3.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Allmenu.jpg" />
 </details>
 
 <details>
@@ -153,7 +158,7 @@
 
 <details>
 <summary>Bio</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/bio-1.0.3.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Bio.jpg" />
 </details>
 
 <details>
@@ -163,12 +168,12 @@
 
 <details>
 <summary>Email Verify</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Email_Verify.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Verify.jpg" />
 </details>
 
 <details>
 <summary>Youtube Play</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/play-1.0.3.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Play.jpg" />
 </details>
 
 
