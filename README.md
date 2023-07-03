@@ -163,7 +163,7 @@
 
 <details>
 <summary>Console Log</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Console.png" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Log.png" />
 </details>
 
 <details>
