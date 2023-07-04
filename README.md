@@ -201,6 +201,8 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Fix Youtube Play & Yt Mp3| Tue Jul 04 2023 |
+| Been using gpt-4 version| Tue Jun 27 2023 |
 | Fix Erorr Recolor| Sat Jul 01 2023 |
 | Been using gpt-4 version| Tue Jun 27 2023 |
 | New Feature Menfess| Tue Jun 27 2023 |
