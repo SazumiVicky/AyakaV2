@@ -201,9 +201,12 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Fixed unblur feature| Wed Jul 05 2023 |
+| Added Animediff features| Wed Jul 05 2023 |
+| Added join group feature / Premium only| Wed Jul 05 2023 |
+| Menfess reply feature added| Wed Jul 05 2023 |
 | New Feature Playvideo| Tue Jul 04 2023 |
 | Fix Youtube Play & Yt Mp3| Tue Jul 04 2023 |
-| Been using gpt-4 version| Tue Jun 27 2023 |
 | Fix Erorr Recolor| Sat Jul 01 2023 |
 | Been using gpt-4 version| Tue Jun 27 2023 |
 | New Feature Menfess| Tue Jun 27 2023 |
