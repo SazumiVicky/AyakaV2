@@ -201,6 +201,7 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Code update for version 1.0.6| Sun Jul 16 2023 |
 | New Feautre Polling| Tue Jul 11 2023 |
 | Some feature pad fixes and changes| Sun Jul 09 2023 |
 | Improvements to game features such as berburu and potions| Wed Jul 05 2023 |
