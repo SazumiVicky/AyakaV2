@@ -134,11 +134,6 @@
 <h4>Preview</h4>
 
 <details>
-<summary>First Chat</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Firstchat.jpg" />
-</details>
-
-<details>
 <summary>Profile</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Profile.jpg" />
 </details>
@@ -161,11 +156,6 @@
 <details>
 <summary>Buy Premium</summary><br/>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Buyprem.jpg" />
-</details>
-
-<details>
-<summary>Bio</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Bio.jpg" />
 </details>
 
 <details>
