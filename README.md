@@ -93,6 +93,7 @@
 
 - <code>index.js</code>
 - <code>viki-regmail.js</code>
+- <code>viki-blackjack.js</code>
 - <code>print.js</code>
 
 ##
@@ -105,7 +106,7 @@
 
 <h4>The script version is now</h4>
 
-<p>1.0.5</p>
+<p>1.0.6</p>
 
 ##
 
