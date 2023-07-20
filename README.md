@@ -112,8 +112,8 @@
 
 <h4>Minimum specifications required</h4>
 
-- Node Version: 16.20.0
-- Npm Version: 9.6.6
+- Node Version: 18.16.1
+- Npm Version: 9.8.0
 - Cpu: 300%
 - Memory: 3GB
 - Disk: 5GB
@@ -122,8 +122,8 @@
 
 <h4>Recommendations specifications required</h4>
 
-- Node Version: 16.20.0
-- Npm Version: 9.6.6
+- Node Version: 18.16.1
+- Npm Version: 9.8.0
 - Cpu: 400%
 - Memory: 8GB
 - Disk: 10GB
@@ -135,17 +135,17 @@
 
 <details>
 <summary>Profile</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Ayaka_Profile.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/profile-1.0.6.jpg" />
 </details>
 
 <details>
 <summary>Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Menu.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/menu-1.0.6.jpg" />
 </details>
 
 <details>
 <summary>All Menu</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Allmenu.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/allmenu-1.0.6.jpg" />
 </details>
 
 <details>
@@ -170,7 +170,7 @@
 
 <details>
 <summary>Youtube Play</summary><br/>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/Meow_Play.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/yplay-1.0.6.jpg" />
 </details>
 
 
