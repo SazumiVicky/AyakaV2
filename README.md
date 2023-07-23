@@ -178,13 +178,11 @@
 
 <h4>To run the bot on version 1.0.2 +, I suggest using a third-party WhatsApp application, such as Aero WhatsApp.</h4>
 
-> For the <code>com.wa package</code> version, you must uninstall your official WhatsApp and install this version of Aero WhatsApp.
+ - For the <code>com.wa package</code> version, you must uninstall your official WhatsApp and install this version of Aero WhatsApp.
+   - [Aero Whatsapp](https://www.mediafire.com/file/1q8r19yfe3qm69d/WA_AERO_V9.74__--com_whatsapp--__Modern__aeromods.app__.apk/file&lang=en)
 
-- [Aero Whatsapp](https://www.mediafire.com/file/1q8r19yfe3qm69d/WA_AERO_V9.74__--com_whatsapp--__Modern__aeromods.app__.apk/file&lang=en)
-
-> Also, if you don't want to uninstall your official WhatsApp version, you can use the <code>com.aero package</code> version instead.
-
-- [Aero Whatsapp](https://www.mediafire.com/file/79tid7c23a6w0zn/WA_AERO_V9.74__--com_aero--__Modern__aeromods.app__.apk/file&lang=en)
+ - Also, if you don't want to uninstall your official WhatsApp version, you can use the <code>com.aero package</code> version instead.
+   - [Aero Whatsapp](https://www.mediafire.com/file/79tid7c23a6w0zn/WA_AERO_V9.74__--com_aero--__Modern__aeromods.app__.apk/file&lang=en)
 
 ##
 
