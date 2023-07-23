@@ -23,7 +23,7 @@
 
 **Benefits**
 - [x] Free Updates
-- [x] Bonus ApiKey 5K Request (for 2 month)
+- [x] Bonus ApiKey (unlimited)
 
 ##
 
