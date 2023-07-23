@@ -52,12 +52,6 @@
 
 ##
 
-<h4>Where can I try the demo version</h4>
-
-- [Demo](https://wa.me/+62857961868359)
-
-##
-
 <h4>Rules that must be followed when purchasing AyakaV2 script</h4>
 
 1. Script cannot be bought and sold.
@@ -180,6 +174,14 @@
 
  - Also, if you don't want to uninstall your official WhatsApp version, you can use the <code>com.aero package</code> version instead.
    - [Aero Whatsapp](https://www.mediafire.com/file/79tid7c23a6w0zn/WA_AERO_V9.74__--com_aero--__Modern__aeromods.app__.apk/file&lang=en)
+
+##
+
+Demo : [ayaka-bot v1.0.6](https://wa.me/62857961868359?text=.menu)
+<br>
+Creator : [Sazumi Viki](https://wa.me/6285236226786)
+<br>
+Official Group : [Chatbot](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 ##
 
