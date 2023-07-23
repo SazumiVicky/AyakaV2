@@ -82,10 +82,10 @@
 
 <h4>What are we encrypting?</h4>
 
-- <code>index.js</code>
-- <code>viki-regmail.js</code>
-- <code>viki-blackjack.js</code>
-- <code>print.js</code>
+- [x] **index.js**
+- [x] **viki-regmail.js**
+- [x] **viki-blackjack.js**
+- [x] **print.js**
 
 ##
 
