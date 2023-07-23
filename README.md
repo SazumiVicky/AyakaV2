@@ -22,7 +22,7 @@
 ##
 
 **Benefits**
-- [x] Free Updates
+- [x] Free updates according to plan
 - [x] Bonus ApiKey (unlimited)
 
 ##
