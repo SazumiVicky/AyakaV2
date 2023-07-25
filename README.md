@@ -84,7 +84,6 @@
 
 - [x] **index.js**
 - [x] **viki-regmail.js**
-- [x] **viki-blackjack.js**
 - [x] **print.js**
 
 ##
