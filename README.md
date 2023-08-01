@@ -83,6 +83,7 @@
 <h4>What are we encrypting?</h4>
 
 - [x] **index.js**
+- [x] **viki-regmail.js**
 - [x] **print.js**
 
 ##
