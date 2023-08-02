@@ -43,8 +43,9 @@
 <h4>IP Address Replacement</h4>
 
 - An IP address can only be changed when there is a previous IP.
-- The "Type 60k" can change its IP address up to 3 times.
-- And the "Type 100k" can change its IP address up to 5 times.
+- The **"Type 60k"** can change its IP address up to 3 times.
+- And the **"Type 100k"** can change its IP address up to 5 times.
+- And when you want to add another IP address, you need to purchase it for **20K** per 1 **IP slot**.
   
 ##
 
