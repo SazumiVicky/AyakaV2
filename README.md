@@ -40,6 +40,14 @@
 
 ##
 
+<h4>IP Address Replacement</h4>
+
+- An IP address can only be changed when there is a previous IP.
+- The "Type 60k" can change its IP address up to 3 times.
+- And the "Type 100k" can change its IP address up to 5 times.
+  
+##
+
 <h4>Is there a refund when the script has been purchased?</h4>
 
 <p>Once you have the script, there is no way to delete it, even if you swear.</p>
