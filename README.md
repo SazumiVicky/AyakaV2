@@ -197,6 +197,7 @@ Official Group : [Chatbot](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Improvements to several features are currently in progress.| Wed Aug 02 2023 |
 | Addition of IP Address Verification| Wed Aug 02 2023 |
 | Changelog Version **1.0.6** and Beyond| Wed Aug 02 2023 |
 | Code update for version 1.0.6| Sun Jul 16 2023 |
