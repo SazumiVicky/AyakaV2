@@ -1,4 +1,4 @@
-![MakeMeow](https://cdn.jsdelivr.net/gh/SazumiVicky/AyakaV2@main/images/Ayaka_Thumb.jpeg)
+![MakeMeow](https://cdn.jsdelivr.net/gh/SazumiVicky/Storage@main/20230806_190319-min.jpg)
 
 # Warning
 
