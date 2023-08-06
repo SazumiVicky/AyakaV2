@@ -197,6 +197,7 @@ Official Group : [Chatbot](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| New Feature **Controlnet**| Sun Aug 06 2023 |
 | Fix erorr **lib/uploadImage.js**| Sun Aug 06 2023 |
 | Fix **Diffusion** And **Animediff**| Sun Aug 06 2023 |
 | Improvements to several features are currently in progress.| Wed Aug 02 2023 |
