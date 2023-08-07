@@ -198,6 +198,7 @@ Official Group : [Chatbot](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+| Fix **Temp-Mail** & **Temp-Mail Message**| Mon Aug 07 2023 |
 | New Feature **Controlnet**| Sun Aug 06 2023 |
 | Fix erorr **lib/uploadImage.js**| Sun Aug 06 2023 |
 | Fix **Diffusion** And **Animediff**| Sun Aug 06 2023 |
