@@ -23,7 +23,8 @@
 
 **Benefits**
 - [x] Free updates according to plan
-- [x] Bonus ApiKey **5 months**
+- [x] Free [LoL Human REST APIs](https://api.lolhuman.xyz) [ **5month** ]
+- [x] Bonus [ITSROSE - APIs](https://api.itsrose.life)
 
 ##
 
