@@ -89,6 +89,11 @@
   - No, the price set is final and cannot be negotiated.
 
 ##
+Stop here for a moment
+
+- Features for all versions, for the time being, do not include the werewolf and blackjack games.
+
+##
 
 <h4>What are we encrypting?</h4>
 
