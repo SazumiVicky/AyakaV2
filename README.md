@@ -203,6 +203,7 @@ Official Group : [Chatbot](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  New Feature **Whatmusic**| Wed Aug 09 2023 |
 |  **jadianime** Fixed| Tue Aug 08 2023 |
 | Fix **Temp-Mail** & **Temp-Mail Message**| Mon Aug 07 2023 |
 | New Feature **Controlnet**| Sun Aug 06 2023 |
